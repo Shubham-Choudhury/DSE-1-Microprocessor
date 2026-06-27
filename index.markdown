@@ -31,5 +31,15 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-06-29">June 29, 2026</time></td>
+            <td>Lecture 2: Evolution of Microprocessors and Introduction to Intel 8085</td>
+            <td>
+                <a href="{{ '/lecture-2-evolution-of-microprocessors-and-introduction-to-intel-8085/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
