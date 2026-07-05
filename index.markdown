@@ -14,7 +14,6 @@ layout: base
 <table>
     <thead>
         <tr>
-            <th>Date</th>
             <th>Lecture</th>
             <th>Notes</th>
             <th>Exercise</th>
@@ -22,7 +21,6 @@ layout: base
     </thead>
     <tbody>
         <tr>
-            <td><time datetime="2026-06-25">June 25, 2026</time></td>
             <td>Lecture 1: Introduction to Microprocessors</td>
             <td>
                 <a href="{{ '/lecture-1-introduction-to-microprocessors/' | relative_url }}">
@@ -32,10 +30,18 @@ layout: base
             <td></td>
         </tr>
         <tr>
-            <td><time datetime="2026-06-29">June 29, 2026</time></td>
             <td>Lecture 2: Evolution of Microprocessors and Introduction to Intel 8085</td>
             <td>
                 <a href="{{ '/lecture-2-evolution-of-microprocessors-and-introduction-to-intel-8085/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 3: Internal Architecture of Intel 8085 Microprocessor</td>
+            <td>
+                <a href="{{ '/lecture-3-internal-architecture-of-intel-8085-microprocessor/' | relative_url }}">
                     View Notes
                 </a>
             </td>
