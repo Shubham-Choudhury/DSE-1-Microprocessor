@@ -47,5 +47,23 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 4: Intel 8085 Pin Diagram and Pin Configuration</td>
+            <td>
+                <a href="{{ '/lecture-4-intel-8085-pin-diagram-and-pin-configuration/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 5: Registers of the Intel 8085 Microprocessor</td>
+            <td>
+                <a href="{{ '/lecture-5-registers-of-the-intel-8085-microprocessor/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
