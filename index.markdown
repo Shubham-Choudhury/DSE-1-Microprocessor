@@ -65,5 +65,23 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 6: Flag Register and Processor Status Word (PSW)</td>
+            <td>
+                <a href="{{ '/lecture-6-flag-register-and-processor-status-word/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 7: System Bus Architecture of the 8085 Microprocessor</td>
+            <td>
+                <a href="{{ '/lecture-7-system-bus-architecture-of-the-8085-microprocessor/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
