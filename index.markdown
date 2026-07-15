@@ -83,5 +83,23 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 8: Timing Diagram, Machine Cycles, and T-States of the 8085 Microprocessor</td>
+            <td>
+                <a href="{{ '/lecture-8-timing-diagram-machine-cycles-and-t-states-of-the-8085-microprocessor/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 9: Memory Organization and Memory Hierarchy</td>
+            <td>
+                <a href="{{ '/lecture-9-memory-organization-and-memory-hierarchy/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
