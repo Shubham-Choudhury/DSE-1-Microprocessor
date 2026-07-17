@@ -101,5 +101,23 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 10: Introduction to Microprocessor Programming and Instruction Set</td>
+            <td>
+                <a href="{{ '/lecture-10-introduction-to-microprocessor-programming-and-instruction-set/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 11: 8085 Microprocessor Instruction Format and Addressing Modes</td>
+            <td>
+                <a href="{{ '/lecture-11-8085-microprocessor-instruction-format-and-addressing-modes/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>

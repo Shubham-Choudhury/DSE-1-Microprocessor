@@ -80,3 +80,98 @@ Syntax: `ACI Data`
 
 Example: `ACI 15H`
 
+### V. SUB
+
+The SUB instruction subtracts the contents of a register or memory location from the Accumulator.
+
+Syntax: `SUB Register`
+
+or
+
+Syntax: `SUB M`
+
+Example: `SUB B`
+
+### VI. SBB (Subtract with Borrow)
+
+Subtracts the operand and the Carry Flag (borrow) from the Accumulator.
+
+Syntax: `SBB Register`
+
+or
+
+Syntax: `SBB M`
+
+Example: `SBB B`
+
+### VII. SUI (Subtract Immediate)
+
+Subtracts immediate data from the Accumulator.
+
+Syntax: `SUI Data`
+
+Example: `SUI 20H`
+
+### VIII. SBI (Subtract Immediate with Borrow)
+
+Subtracts immediate data and the Carry Flag from the Accumulator.
+
+Syntax: `SBI Data`
+
+Example: `SBI 10H`
+
+### IX. INR (Increment)
+
+Increases the value of a register or memory location by 1.
+
+Syntax: `INR Register`
+
+or 
+
+Syntax: `INR M`
+
+Example: `INR B`
+
+### X. DCR (Decrement)
+
+Decreases the value of a register or memory location by 1.
+
+Syntax: `DCR Register`
+
+or 
+
+Syntax: `DCR M`
+
+Example: `DCR B`
+
+### XI. INX (Increment Register Pair)
+
+Increments a 16-bit register pair by 1.
+
+Syntax: `INX B`
+
+or
+
+Syntax: `INX D`
+
+or
+
+Syntax: `INX H`
+
+or
+
+Syntax: `INX SP`
+
+Example: `INX H`
+
+### XII. DCX (Decrement Register Pair)
+
+Decrements a 16-bit register pair by 1.
+
+### XIII. DAD (Double Add)
+
+Adds a 16-bit register pair to the HL register pair.
+
+Syntax `DAD RegisterPair`
+
+Possible register pairs: BC, DE, HL, SP
