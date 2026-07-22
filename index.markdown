@@ -119,5 +119,41 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td>Lecture 12: 8085 Microprocessor Data Transfer Instructions</td>
+            <td>
+                <a href="{{ '/lecture-12-8085-microprocessor-data-transfer-instructions/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 13: Arithmetic Instructions of the 8085 Microprocessor</td>
+            <td>
+                <a href="{{ '/lecture-13-arithmetic-instructions-of-the-8085-microprocessor/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 14: Logical Instructions of the 8085 Microprocessor</td>
+            <td>
+                <a href="{{ '/lecture-14-logical-instructions-of-the-8085-microprocessor/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Lecture 15: Branch Instructions of the 8085 Microprocessor</td>
+            <td>
+                <a href="{{ '/lecture-15-branch-instructions-of-the-8085-microprocessor/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
